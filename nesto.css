@@ -16,7 +16,7 @@ h1,h2 {
 .paragraph_3{ margin:50px; color:chocolate; background-color: rgba(255,255,255,0.5); }
  span {color: rgb(255,0,0);}
  .paragraph_4{ margin:50px; color:gray; background-color: rgba(255,255,255,0.5); }
- .pozadina{background-image : url(slike/4.jpg); 
+ .pozadina{background-image : url(Slike/4.jpg); 
  }
 .drugapozadina {background-color: darkgray; 
 }
