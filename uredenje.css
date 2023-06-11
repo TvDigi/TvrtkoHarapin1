@@ -24,7 +24,7 @@ font-family:Gotham,"Helvetica Neue",Hevletica,Arial,"sans-sherif";
 .paragraph_3{ margin:50px; color:chocolate; background-color: rgba(255,255,255,0.5); }
  span {color: rgb(255,0,0);}
  .paragraph_4{ margin:50px; color:gray; background-color: rgba(255,255,255,0.5); }
- .pozadina{background-image : url(slike/pozadina.jpg); 
+ .pozadina{background-image : url(slike/pozadina.JPG); 
  }
 .drugapozadina {background-color: darkgray; 
 }
