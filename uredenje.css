@@ -7,7 +7,7 @@ width: 600px;
 background-color:  antiquewhite;
 padding: 20px;
 }
- @font-face { font-family: TvrtkoHarapin; src: url("font/TvrtkoHarapin"); } 
+ @font-face { font-family: TvrtkoHarapin; src: url("font/TvrtkoHarapin.ttf"); } 
 .paragraph_2{margin:50px; color:rgb(0,59,0);; background-color: rgba(255,255,255,0.5); }
 h1{
 	font-family:Gotham,"TvrtkoHarapin","Helvetica Neue",Hevletica,Arial,"sans-sherif";
