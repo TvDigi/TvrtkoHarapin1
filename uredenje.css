@@ -1,0 +1,52 @@
+p {
+color: gray;
+font-family: Costantia, "Lucida Bright", "DeJaVu Serif", Georgia, "Serif";
+font-size: 16px;
+line-height: 18px;
+width: 600px;
+background-color:  antiquewhite;
+padding: 20px;
+}
+ @font-face { font-family: TvrtkoHarapin; src: url("font/TvrtkoHarapin"); } 
+.paragraph_2{margin:50px; color:rgb(0,59,0);; background-color: rgba(255,255,255,0.5); }
+h1{
+	font-family:Gotham,"TvrtkoHarapin","Helvetica Neue",Hevletica,Arial,"sans-sherif";
+	color:cadetblue; font-size: 50px; margin-left: 50px;
+}
+h2,h3 {
+	font-family:Gotham,"Helvetica Neue",Hevletica,Arial,"sans-sherif";
+	color:cadetblue; font-size: 50px; margin-left: 50px;
+}
+.podnaslov{margin:50px; color:cadetblue; 
+font-family:Gotham,"Helvetica Neue",Hevletica,Arial,"sans-sherif";
+}
+
+}
+.paragraph_3{ margin:50px; color:chocolate; background-color: rgba(255,255,255,0.5); }
+ span {color: rgb(255,0,0);}
+ .paragraph_4{ margin:50px; color:gray; background-color: rgba(255,255,255,0.5); }
+ .pozadina{background-image : url(slike/pozadina.JPG); 
+ }
+.drugapozadina {background-color: darkgray; 
+}
+.quote{color: rgb(0,200,255);}
+.novi_blok{
+padding:20px;margin:20px;width:50%;
+
+
+}
+.list{margin-left: 50px;}
+.menu{display: inline;}
+a{
+color: black;
+background-color: white;
+padding:5px;
+line-height: 25px;
+border:1px solid rgb(255,255,255);
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 200px; width: 200px;
+}
